@@ -3,7 +3,7 @@
 # Email: zhang.hang@rutgers.edu 
 # Copyright (c) 2017
 ###########################################################################
-#今天星期四
+
 import os
 import numpy as np
 from tqdm import tqdm
